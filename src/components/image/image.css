@@ -1,0 +1,8 @@
+.image-wait-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background: #80808059;
+}
